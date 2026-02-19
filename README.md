@@ -25,13 +25,21 @@ This project implements a basic compilation pipeline including lexical analysis,
 
 
 .
+
 ├── main.c
+
 ├── lexer.c
+
 ├── lexer.h
+
 ├── parser.c
+
 ├── parser.h
+
 ├── interpreter.c
+
 ├── interpreter.h
+
 └── README.md
 
 
